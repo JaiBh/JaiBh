@@ -15,9 +15,9 @@ Currently building full-stack projects using Next.js, TypeScript, Tailwind & Pri
 - **[FusionFootwear Store](https://fusionfootwear-store.vercel.app/)** – Full e-commerce experience  
 - **[Admin Panel](https://www.fusionfootwear-admin.xyz/)** – Manage store products and analytics
 
-- ## 🧠 What I’m Learning Next
+## 🧠 What I’m Learning Next
 - How to integrate AI tools and APIs into full-stack apps
 - Automated testing with React Testing Library and Vitest
-- 
+  
 ## 📫 Connect With Me
 - **Email:** jaibhullar.developer@outlook.com 
