@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Jai Bhullar
 
-<!--
-**JaiBh/JaiBh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a self-taught front-end developer based near London 🇬🇧  
+Currently building full-stack projects using Next.js, TypeScript, Tailwind & Prisma.
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+- React / Next.js
+- TypeScript / JavaScript
+- Prisma / PostgreSQL
+- Tailwind CSS / ShadCN UI
+- Clerk / Auth0
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+- **[Personal Finance App](https://www.jaibh-finance.xyz/)** – Track budgets, bills & transactions  
+- **[FusionFootwear Store](https://fusionfootwear-store.vercel.app/)** – Full e-commerce experience  
+- **[Admin Panel](https://www.fusionfootwear-admin.xyz/)** – Manage store products and analytics
+
+## 📫 Connect With Me
+- **Email:** jaibhullar.developer@outlook.com 
