@@ -3,6 +3,8 @@
 I'm a self-taught front-end developer based near London 🇬🇧  
 Currently building full-stack projects using Next.js, TypeScript, Tailwind & Prisma.
 
+🌐 [Portfolio Website](https://jaibh-portfolio.vercel.app)
+
 ## 🔧 Tech Stack
 - React / Next.js
 - TypeScript / JavaScript
@@ -20,4 +22,5 @@ Currently building full-stack projects using Next.js, TypeScript, Tailwind & Pri
 - Automated testing with React Testing Library and Vitest
   
 ## 📫 Connect With Me
-- **Email:** jaibhullar.developer@outlook.com 
+- **Email:** jaibhullar.developer@outlook.com
+- 🌐 [Portfolio Website](https://jaibh-portfolio.vercel.app)
