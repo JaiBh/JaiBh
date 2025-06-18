@@ -26,6 +26,6 @@ Currently building full-stack projects using Next.js, TypeScript, Tailwind & Pri
 ## 📫 Connect With Me
 - 📧 **Email:** jaibhullar.developer@outlook.com  
 - 🔗 **LinkedIn:** [linkedin.com/in/jai-bhullar-dev](https://www.linkedin.com/in/jai-bhullar-dev)
-- 
+
 🎯 **Check out my portfolio**: [jaibh-portfolio.vercel.app](https://jaibh-portfolio.vercel.app)
 
