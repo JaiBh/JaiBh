@@ -24,8 +24,8 @@ Currently building full-stack projects using Next.js, TypeScript, Tailwind & Pri
 - Automated testing with React Testing Library and Vitest
   
 ## 📫 Connect With Me
-- **Email:** jaibhullar.developer@outlook.com
-- 📄 [Download My CV](https://drive.google.com/file/d/1j2kYSzZ5HjxdfK2MaI9PJ9L5ZaV0qrnB/view?usp=sharing)
-
+- 📧 **Email:** jaibhullar.developer@outlook.com  
+- 🔗 **LinkedIn:** [linkedin.com/in/jai-bhullar-dev](https://www.linkedin.com/in/jai-bhullar-dev)
+- 
 🎯 **Check out my portfolio**: [jaibh-portfolio.vercel.app](https://jaibh-portfolio.vercel.app)
 
