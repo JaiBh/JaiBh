@@ -17,7 +17,7 @@ Currently building full-stack projects using Next.js, TypeScript, Tailwind & Pri
 ## 🚀 Featured Projects
 - **[Personal Finance App](https://www.jaibh-finance.xyz/)** – Track budgets, bills & transactions  
 - **[FusionFootwear Store](https://fusionfootwear-store.vercel.app/)** – Full e-commerce experience  
-- **[Admin Panel](https://www.fusionfootwear-admin.xyz/)** – Manage store products and analytics
+- **[FusionFootwear Admin Panel](https://www.fusionfootwear-admin.xyz/)** – Manage store products and analytics
 
 ## 🧠 What I’m Learning Next
 - How to integrate AI tools and APIs into full-stack apps
