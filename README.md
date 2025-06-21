@@ -3,7 +3,7 @@
 I'm a self-taught front-end developer based near London 🇬🇧  
 Currently building full-stack projects using Next.js, TypeScript, Tailwind & Prisma.
 
-📄 **[Download My CV](https://drive.google.com/file/d/1_cvbQ0_aN2NriJZgmYCE5YCcDnxHFLhg/view?usp=sharing)**
+📄 **[Download My CV](https://drive.google.com/file/d/1CTHnq0laeat8fFoE7rDsQGtSYJl-ILTk/view?usp=sharing)**
 
 🌐 [Portfolio Website](https://jaibh-portfolio.vercel.app)
 
