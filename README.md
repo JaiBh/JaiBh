@@ -13,15 +13,18 @@ Currently building full-stack projects using Next.js, TypeScript, Tailwind & Pri
 - Prisma / PostgreSQL
 - Tailwind CSS / ShadCN UI
 - Clerk / Auth0
+- Jotai
+- Jest / React Testing Library
 
 ## 🚀 Featured Projects
 - **[Personal Finance App](https://www.jaibh-finance.xyz/)** – Track budgets, bills & transactions  
 - **[FusionFootwear Store](https://fusionfootwear-store.vercel.app/)** – Full e-commerce experience  
-- **[FusionFootwear Admin Panel](https://www.fusionfootwear-admin.xyz/)** – Manage store products and analytics
+- **[FusionFootwear Admin Panel](https://www.fusionfootwear-admin.xyz/)** – Manage store products and analytics with comprehensive testing using Jest & React Testing Library
 
 ## 🧠 What I’m Learning Next
-- How to integrate AI tools and APIs into full-stack apps
-- Automated testing with React Testing Library and Vitest
+- Integrating AI tools and APIs into full-stack apps
+- End-to-end testing with Cypress or Playwright
+- Exploring additional state management solutions (Zustand, Redux Toolkit)
   
 ## 📫 Connect With Me
 - 📧 **Email:** jaibhullar.developer@outlook.com  
