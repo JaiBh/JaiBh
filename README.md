@@ -8,13 +8,12 @@ Currently building full-stack projects using Next.js, TypeScript, Tailwind & Pri
 🌐 [Portfolio Website](https://jaibh-portfolio.vercel.app)
 
 ## 🔧 Tech Stack
-- React / Next.js
-- TypeScript / JavaScript
-- Prisma / PostgreSQL
-- Tailwind CSS / ShadCN UI
-- Clerk / Auth0
-- Jotai
-- Jest / React Testing Library
+- - **Frameworks & Frontend:** React, Next.js (App Router), Tailwind CSS, ShadCN UI  
+- **Languages:** TypeScript, JavaScript  
+- **Backend & APIs:** Prisma, PostgreSQL, tRPC, Inngest, OpenAI API, E2B  
+- **Auth & Billing:** Clerk, Auth0  
+- **State Management:** Jotai  
+- **Testing:** Jest, React Testing Library  
 
 ## 🚀 Featured Projects
 - **[Personal Finance App](https://www.jaibh-finance.xyz/)** – Track budgets, bills & transactions  
