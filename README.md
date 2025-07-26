@@ -8,7 +8,7 @@ Currently building full-stack projects using Next.js, TypeScript, Tailwind & Pri
 🌐 [Portfolio Website](https://jaibh-portfolio.vercel.app)
 
 ## 🔧 Tech Stack
-- - **Frameworks & Frontend:** React, Next.js (App Router), Tailwind CSS, ShadCN UI  
+- **Frameworks & Frontend:** React, Next.js (App Router), Tailwind CSS, ShadCN UI  
 - **Languages:** TypeScript, JavaScript  
 - **Backend & APIs:** Prisma, PostgreSQL, tRPC, Inngest, OpenAI API, E2B  
 - **Auth & Billing:** Clerk, Auth0  
