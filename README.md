@@ -21,6 +21,8 @@ Currently building full-stack projects using Next.js, TypeScript, Tailwind & Pri
 - **[FusionFootwear Admin Panel](https://www.fusionfootwear-admin.xyz/)** – Manage store products and analytics with comprehensive testing using Jest & React Testing Library
 - **[Promptly](https://jaibh-promptly.vercel.app/)** – AI-powered tool to generate basic, editable Next.js websites from natural language prompts.  
   *Built from a tutorial with added features like a mobile-friendly gallery, project deletion, and responsive UI enhancements.*
+- **[MovieFlix](https://github.com/JaiBh/MovieFlix)** – Mobile app to browse and save movies using TMDB API 
+  *Built with React Native, Expo, Clerk auth, and Jotai. Includes a saved list, profile screen, and smooth navigation. [Watch demo](https://www.youtube.com/shorts/_XT4F4Dq1_c)*
 
 
 ## 🧠 What I’m Learning Next
