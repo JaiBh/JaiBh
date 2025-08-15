@@ -12,12 +12,12 @@ Currently building full-stack projects using Next.js, TypeScript, Tailwind & Pri
 - **Languages:** TypeScript, JavaScript  
 - **Backend & APIs:** Prisma, PostgreSQL, tRPC, Inngest, OpenAI API, E2B  
 - **Auth & Billing:** Clerk, Auth0  
-- **State Management:** Jotai  
+- **State & Data Fetching:** TanStack React Query, Jotai
 - **Testing:** Jest, React Testing Library  
 
 ## 🚀 Featured Projects
 - **[Personal Finance App](https://www.jaibh-finance.xyz/)** – Track budgets, bills & transactions  
-- **[FusionFootwear Store](https://fusionfootwear-store.vercel.app/)** – Full e-commerce experience  
+- **[FusionFootwear Store](https://fusionfootwear-store.vercel.app/)** – Full e-commerce experience using TanStack React Query for server state management (categories, featured products, product lists, saved items)
 - **[FusionFootwear Admin Panel](https://www.fusionfootwear-admin.xyz/)** – Manage store products and analytics with comprehensive testing using Jest & React Testing Library
 - **[Promptly](https://jaibh-promptly.vercel.app/)** – AI-powered tool to generate basic, editable Next.js websites from natural language prompts.  
   *Built from a tutorial with added features like a mobile-friendly gallery, project deletion, and responsive UI enhancements.*
