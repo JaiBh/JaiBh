@@ -16,10 +16,10 @@ Currently building full-stack projects using Next.js, TypeScript, Tailwind & Pri
 - **Testing:** Jest, React Testing Library  
 
 ## 🚀 Featured Projects
-- **[Personal Finance App](https://www.jaibh-finance.xyz/)** – Track budgets, bills & transactions  
-- **[FusionFootwear Store](https://fusionfootwear-store.vercel.app/)** – Full e-commerce experience using TanStack React Query for server state management (categories, featured products, product lists, saved items)
-- **[FusionFootwear Admin Panel](https://www.fusionfootwear-admin.xyz/)** – Manage store products and analytics with comprehensive testing using Jest & React Testing Library
-- **[Promptly](https://jaibh-promptly.vercel.app/)** – AI-powered tool to generate basic, editable Next.js websites from natural language prompts.  
+- **[Personal Finance App](https://github.com/JaiBh/personal-finance-app)** – Track budgets, bills & transactions  
+- **[FusionFootwear Store](https://github.com/JaiBh/fusionfootwear-ecommerce-store)** – Full e-commerce experience using TanStack React Query for server state management (categories, featured products, product lists, saved items)
+- **[FusionFootwear Admin Panel](https://github.com/JaiBh/fusionfootwear-ecommerce-admin)** – Manage store products and analytics with comprehensive testing using Jest & React Testing Library
+- **[Promptly](https://github.com/JaiBh/promptly)** – AI-powered tool to generate basic, editable Next.js websites from natural language prompts.  
   *Built from a tutorial with added features like a mobile-friendly gallery, project deletion, and responsive UI enhancements.*
 - **[MovieFlix](https://github.com/JaiBh/MovieFlix)** – Mobile app to browse and save movies using TMDB API 
   *Built with React Native, Expo, Clerk auth, and Jotai. Includes a saved list, profile screen, and smooth navigation. [Watch demo](https://www.youtube.com/shorts/_XT4F4Dq1_c)*
